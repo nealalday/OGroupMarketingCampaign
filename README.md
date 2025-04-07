@@ -2,6 +2,8 @@
 ![Easygo_Pack35](https://github.com/user-attachments/assets/eb68a89c-47ac-4fae-95fb-0bff1cf73b60)
 >*Main landing page showing performance metrics, showing all campaigns*
 
+>[Link to Tableau Public Dashboard](https://public.tableau.com/views/OGroupMarketingCampaignReport/MarketingCampaignPerformance?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Project Background
 This project analyses CRM campaign performance data from **O Group, an iGaming software company.** The focus is on evaluating email and SMS campaigns sent to two key customer segments: **Non Depositors** (users who registered but haven’t deposited) and **New Depositors** (users who have made their first deposit). These campaigns aim to **maximise player conversion and engagement while minimising opt-outs**. By exploring key metrics such as delivery, open, click, and unsubscribe rates, this report identifies what’s working, what needs improvement, and offers data-driven recommendations to **optimise future campaign performance.**
 
