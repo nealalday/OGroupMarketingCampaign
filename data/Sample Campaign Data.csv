@@ -1,0 +1,82 @@
+Campaign ID,Campaign Name,Target Customer Lifecycle,Day of Lifecycle,DateTime Sent,Channel,Sent,Delivered,Opened,Clicks,Unsubscribed,Tag
+100,Account Registration Welcome,Non Depositor,1,1/1/25 9:00,Email,1009,951,405,46,12,Informational
+100,Account Registration Welcome,Non Depositor,1,8/1/25 9:00,Email,809,791,326,38,8,Informational
+100,Account Registration Welcome,Non Depositor,1,15/1/25 9:00,Email,909,852,382,52,9,Informational
+100,Account Registration Welcome,Non Depositor,1,22/1/25 9:00,Email,933,874,376,49,11,Informational
+100,Account Registration Welcome,Non Depositor,1,29/1/25 9:00,Email,785,721,281,39,7,Informational
+100,Account Registration Welcome,Non Depositor,1,5/2/25 9:00,Email,1206,1151,453,60,16,Informational
+100,Account Registration Welcome,Non Depositor,1,12/2/25 9:00,Email,1305,1201,655,83,19,Informational
+100,Account Registration Welcome,Non Depositor,1,19/2/25 9:00,Email,1452,1301,556,71,22,Informational
+100,Account Registration Welcome,Non Depositor,1,26/2/25 9:00,Email,1503,1381,560,78,17,Informational
+100,Account Registration Welcome,Non Depositor,1,5/3/25 9:00,Email,2203,1501,643,82,24,Informational
+100,Account Registration Welcome,Non Depositor,1,12/3/25 9:00,Email,2647,1752,827,143,28,Informational
+147,Account Registration Day 3,Non Depositor,3,10/1/25 9:00,SMS,787,320,NULL,194,23,Informational
+147,Account Registration Day 3,Non Depositor,3,17/1/25 9:00,SMS,867,463,NULL,121,33,Informational
+159,Account Registration Day 14,Non Depositor,14,11/2/25 9:00,SMS,760,437,NULL,115,37,Informational
+159,Account Registration Day 14,Non Depositor,14,25/2/25 9:00,SMS,1180,582,NULL,137,53,Informational
+200,New Depositor Welcome Message,New Depositor,1,1/1/25 9:00,Email,284,281,173,92,5,Informational
+200,New Depositor Welcome Message,New Depositor,1,8/1/25 9:00,Email,348,339,204,107,10,Informational
+200,New Depositor Welcome Message,New Depositor,1,15/1/25 9:00,Email,253,237,139,73,6,Informational
+200,New Depositor Welcome Message,New Depositor,1,22/1/25 9:00,Email,284,266,149,76,7,Informational
+200,New Depositor Welcome Message,New Depositor,1,29/1/25 9:00,Email,316,285,158,83,4,Informational
+200,New Depositor Welcome Message,New Depositor,1,5/2/25 9:00,Email,274,261,157,82,6,Informational
+200,New Depositor Welcome Message,New Depositor,1,12/2/25 9:00,Email,947,943,773,623,36,Informational
+200,New Depositor Welcome Message,New Depositor,1,19/2/25 9:00,Email,692,663,389,241,14,Informational
+200,New Depositor Welcome Message,New Depositor,1,26/2/25 9:00,Email,751,722,428,258,16,Informational
+200,New Depositor Welcome Message,New Depositor,1,5/3/25 9:00,Email,789,762,463,289,13,Informational
+200,New Depositor Welcome Message,New Depositor,1,12/3/25 21:00,Email,1174,1150,738,475,37,Informational
+232,New Depositor Day 3 - Version A,New Depositor,3,3/1/25 9:00,Email,130,125,96,74,9,Promotional
+256,New Depositor Day 3 - Version B,New Depositor,3,3/1/25 9:00,Email,130,127,88,53,5,Promotional
+232,New Depositor Day 3 - Version A,New Depositor,3,10/1/25 9:00,Email,161,159,117,100,13,Promotional
+256,New Depositor Day 3 - Version B,New Depositor,3,10/1/25 9:00,Email,162,151,78,26,7,Promotional
+232,New Depositor Day 3 - Version A,New Depositor,3,17/1/25 9:00,Email,123,121,87,52,16,Promotional
+256,New Depositor Day 3 - Version B,New Depositor,3,17/1/25 9:00,Email,123,104,34,10,3,Promotional
+232,New Depositor Day 3 - Version A,New Depositor,3,24/1/25 9:00,Email,135,131,112,83,15,Promotional
+256,New Depositor Day 3 - Version B,New Depositor,3,24/1/25 9:00,Email,135,116,49,5,7,Promotional
+232,New Depositor Day 3 - Version A,New Depositor,3,31/1/25 9:00,Email,153,149,126,64,18,Promotional
+256,New Depositor Day 3 - Version B,New Depositor,3,31/1/25 9:00,Email,154,146,91,47,10,Promotional
+232,New Depositor Day 3 - Version A,New Depositor,3,7/2/25 9:00,Email,132,129,99,75,12,Promotional
+256,New Depositor Day 3 - Version B,New Depositor,3,7/2/25 9:00,Email,133,121,94,65,5,Promotional
+232,New Depositor Day 3 - Version A,New Depositor,3,14/2/25 9:00,Email,462,459,363,293,52,Promotional
+256,New Depositor Day 3 - Version B,New Depositor,3,14/2/25 9:00,Email,463,475,239,74,24,Promotional
+232,New Depositor Day 3 - Version A,New Depositor,3,21/2/25 9:00,Email,334,330,264,201,31,Promotional
+256,New Depositor Day 3 - Version B,New Depositor,3,21/2/25 9:00,Email,334,344,177,59,13,Promotional
+232,New Depositor Day 3 - Version A,New Depositor,3,28/2/25 9:00,Email,369,366,286,207,38,Promotional
+256,New Depositor Day 3 - Version B,New Depositor,3,28/2/25 9:00,Email,369,366,177,47,16,Promotional
+232,New Depositor Day 3 - Version A,New Depositor,3,7/3/25 9:00,Email,381,378,302,244,42,Promotional
+256,New Depositor Day 3 - Version B,New Depositor,3,7/3/25 9:00,Email,382,401,248,126,9,Promotional
+232,New Depositor Day 3 - Version A,New Depositor,3,14/3/25 9:00,Email,585,583,469,372,64,Promotional
+256,New Depositor Day 3 - Version B,New Depositor,3,14/3/25 9:00,Email,585,598,317,115,12,Promotional
+274,New Depositor Day 6,New Depositor,6,6/1/25 9:00,SMS,239,208,NULL,62,32,Informational
+274,New Depositor Day 6,New Depositor,6,13/1/25 21:00,SMS,294,259,NULL,128,41,Informational
+274,New Depositor Day 6,New Depositor,6,20/1/25 9:00,SMS,206,178,NULL,53,46,Informational
+274,New Depositor Day 6,New Depositor,6,27/1/25 21:00,SMS,244,207,NULL,112,9,Informational
+274,New Depositor Day 6,New Depositor,6,3/2/25 9:00,SMS,261,249,NULL,75,47,Informational
+274,New Depositor Day 6,New Depositor,6,10/2/25 21:00,SMS,226,188,NULL,106,32,Informational
+274,New Depositor Day 6,New Depositor,6,17/2/25 9:00,SMS,836,817,NULL,245,9,Informational
+274,New Depositor Day 6,New Depositor,6,24/2/25 21:00,SMS,614,603,NULL,331,19,Informational
+274,New Depositor Day 6,New Depositor,6,3/3/25 9:00,SMS,664,643,NULL,193,24,Informational
+274,New Depositor Day 6,New Depositor,6,10/3/25 21:00,SMS,688,656,NULL,362,28,Informational
+274,New Depositor Day 6,New Depositor,6,17/3/25 9:00,SMS,1063,1038,NULL,311,42,Informational
+295,New Depositor Day 8,New Depositor,8,8/1/25 9:00,Email,86,76,44,22,7,Informational
+295,New Depositor Day 8,New Depositor,8,15/1/25 9:00,Email,81,68,37,20,2,Informational
+295,New Depositor Day 8,New Depositor,8,22/1/25 21:00,Email,58,46,34,17,6,Informational
+295,New Depositor Day 8,New Depositor,8,29/1/25 9:00,Email,70,63,30,24,6,Informational
+295,New Depositor Day 8,New Depositor,8,5/2/25 9:00,Email,48,38,16,9,3,Informational
+295,New Depositor Day 8,New Depositor,8,12/2/25 9:00,Email,62,51,31,16,1,Informational
+295,New Depositor Day 8,New Depositor,8,19/2/25 9:00,Email,242,212,131,66,3,Informational
+295,New Depositor Day 8,New Depositor,8,26/2/25 21:00,Email,180,158,104,52,2,Informational
+295,New Depositor Day 8,New Depositor,8,5/3/25 21:00,Email,172,154,98,49,7,Informational
+295,New Depositor Day 8,New Depositor,8,12/3/25 9:00,Email,212,192,116,58,8,Informational
+295,New Depositor Day 8,New Depositor,8,19/3/25 9:00,Email,272,248,145,72,5,Informational
+297,New Depositor Day 10,New Depositor,10,10/1/25 9:00,Email,179,171,88,46,7,Informational
+297,New Depositor Day 10,New Depositor,10,17/1/25 9:00,Email,201,184,103,48,21,Informational
+297,New Depositor Day 10,New Depositor,10,24/1/25 21:00,Email,167,153,108,45,14,Informational
+297,New Depositor Day 10,New Depositor,10,31/1/25 9:00,Email,165,148,56,27,6,Informational
+297,New Depositor Day 10,New Depositor,10,7/2/25 9:00,Email,130,115,50,26,4,Informational
+297,New Depositor Day 10,New Depositor,10,14/2/25 9:00,Email,185,172,96,5,9,Informational
+297,New Depositor Day 10,New Depositor,10,21/2/25 9:00,Email,630,621,369,199,17,Informational
+297,New Depositor Day 10,New Depositor,10,28/2/25 21:00,Email,521,509,261,137,12,Informational
+297,New Depositor Day 10,New Depositor,10,7/3/25 21:00,Email,470,458,264,117,13,Informational
+297,New Depositor Day 10,New Depositor,10,14/3/25 9:00,Email,489,477,267,156,8,Informational
+297,New Depositor Day 10,New Depositor,10,21/3/25 9:00,Email,748,734,400,204,23,Informational
